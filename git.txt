@@ -1,0 +1,17 @@
+USER SIDE -
+
+STEP 1 - yum install git 
+STEP 2 - git --version
+STEP 3 - if u want clone via https then u remember ur credential of github and via ssh then generate the public key and authenticate the public key in github and create a clone.    
+STEP 4 - git clone git@github.com:Sunnysinghc/abc.git
+STEP 5 - touch kk.txt
+STEP 6 - git add .
+STEP 7 - git status
+STEP 8 - git commit -m "chnages are break"
+STEP 9 - git push origin main 
+
+JENKINS DASHBOARD - 
+
+STEP 1 - Create a new project ...
+STEP 2 - Go to manage jenkins and configure jenkins URL..
+    
